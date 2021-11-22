@@ -1,59 +1,65 @@
 Subject or Topic,Number of People,Medium of Conversation,Mood after the conversation,Extroversion Scale,Submitter,Day of Week,General Category of Person
-Wine,3+,In Person,8,4,Erin,Friday,Friend
-Golf,3,In Person,10,4,Erin,Friday,Friend
-Plans,1,In Person,8,4,Erin,Friday,Friend
-Dogs at the park,2,In Person,8,4,Erin,Friday,Stranger
+Wine,3+,In Person,8,5,Erin,Friday,Friend
+Golf,3,In Person,10,5,Erin,Friday,Friend
+Plans,1,In Person,8,5,Erin,Friday,Friend
+Dogs at the park,2,In Person,8,5,Erin,Friday,Stranger
+work,3,Email,5,5,Erin,Monday,Work
+Work,1,Email,6,5,Erin,Monday,Work
+Election,1,In Person,6,5,Erin,Monday,Friend
+Work,1,In Person,7,5,Erin,Monday,Friend
+Election,2,Text Chat,5,5,Erin,Monday,Family
+Gym,3,Text Chat,7,5,Erin,Monday,Friend
+Lunch plans,1,Voice Call,8,5,Erin,Monday,Friend
+Beer,3+,In Person,9,5,Erin,Saturday,Friend
+Beerfest plans,2,Text Chat,8,5,Erin,Saturday,Friend
+Travel plans,1,In Person,7,5,Erin,Saturday,Friend
+Pizza,1,Text Chat,10,5,Erin,Saturday,Friend
+Shopping,1,In Person,5,5,Erin,Saturday,Stranger
+Doctor,1,In Person,7,5,Erin,Saturday,Stranger
+Dad's Birthday,3+,In Person,9,5,Erin,Sunday,Family
+Trip Planning,3+,Text Chat,10,5,Erin,Sunday,Friend
+Running,1,In Person,6,5,Erin,Sunday,Friend
+The dog,1,In Person,8,5,Erin,Sunday,Friend
+The day,3,In Person,10,5,Erin,Thursday,Friend
+Watching the dog,1,In Person,7,5,Erin,Thursday,Friend
+Home,1,In Person,8,5,Erin,Thursday,Friend
+The dentist,1,Voice Call,6,5,Erin,Thursday,Friend
+Dinner plans,1,Voice Call,8,5,Erin,Thursday,Friend
+Dinner,1,Voice Call,10,5,Erin,Thursday,Friend
+Group project,3,Text Chat,7,5,Erin,Thursday,School
+Design Challenge,3,Voice Call,7,5,Erin,Thursday,School
+Filling at Dentist,2,In Person,3,5,Erin,Thursday,Stranger
+Dogs eating ice cream,2,In Person,10,5,Erin,Thursday,Stranger
+Dentist,1,In Person,6,5,Erin,Thursday,Stranger
+Work,1,Email,6,5,Erin,Thursday,Work
+Work,1,Text Chat,6,5,Erin,Thursday,Work
+Work,1,Voice Call,6,5,Erin,Thursday,Work
+TV,3+,Text Chat,7,5,Erin,Tuesday,Friend
+The election outcomes,2,Text Chat,7,5,Erin,Tuesday,Friend
+Dishwasher,1,In Person,4,5,Erin,Tuesday,Friend
+Dinner,1,In Person,10,5,Erin,Tuesday,Friend
+Plans for later,1,Voice Call,8,5,Erin,Tuesday,Friend
+Missing cat poster,2,In Person,4,5,Erin,Tuesday,Stranger
+Team meeting,3+,Video Call,5,5,Erin,Tuesday,Work
+Work,1,Voice Call,5,5,Erin,Wednesday,Family
+Plans for the weekend,3+,Text Chat,7,5,Erin,Wednesday,Friend
+Her work,2,In Person,6,5,Erin,Wednesday,Friend
+The dog,1,In Person,8,5,Erin,Wednesday,Friend
+Dogs,1,In Person,8,5,Erin,Wednesday,Stranger
+App Development,3+,Video Call,6,5,Erin,Wednesday,Work
+Work,1,Email,6,5,Erin,Wednesday,Work
+Work,1,Voice Call,6,5,Erin,Wednesday,Work
 "School, movies",3,Text Chat,8,4,Jessie,Friday,Friend
 Genshin Impact,1,Text Chat,5,4,Jessie,Friday,Friend
 CPSC 501,1,Text Chat,7,4,Jessie,Friday,School
 CPSC 583,1,Voice Call,7,4,Jessie,Friday,School
 Job description,1,Phone Call,5,4,Jessie,Friday,Work
 VFC externship program feedback,1,Voice Call,8,4,Jessie,Friday,Work
-Job offer,2,Video call,9,7,Luke,Friday,Family
-Job offer,1,Voice Call,10,7,Luke,Friday,Family
-Confession and chit chat,1,In Person,8,7,Luke,Friday,Other
-project,2,Voice Call,7,7,Luke,Friday,School
-Plans for the future,2,In Person,9,7,Luke,Friday,Work
-Job offer,1,Email,10,7,Luke,Friday,Work
-Job offer,1,Voice Call,10,7,Luke,Friday,Work
-"Video Game, Tv Show",1,In Person,7,3,SR,Friday,Family
-Food,1,In Person,7,3,SR,Friday,Family
-School Test,1,In Person,7,3,SR,Friday,Family
-School Work,1,Text Chat,6,3,SR,Friday,Friend
-Class Discussion,1,Text Chat,7,3,SR,Friday,Friend
-School Discussion,1,Text Chat,6,3,SR,Friday,Stranger
-work,3,Email,5,4,Erin,Monday,Work
-Work,1,Email,6,4,Erin,Monday,Work
 Work,1,Email,6,4,Jessie,Monday,Work
-Time availability for next round,1,Email,10,7,Luke,Monday,Work
-"Cooking, Food",1,In Person,6,3,SR,Monday,Family
-School,1,In Person,6,3,SR,Monday,Family
-Election,1,In Person,6,4,Erin,Monday,Friend
 School,1,In Person,6,4,Jessie,Monday,Family
 CPSC 501,1,In Person,6,4,Jessie,Monday,School
-Work,1,In Person,7,4,Erin,Monday,Friend
 Group project CPSC 581,3,In Person,7,4,Jessie,Monday,School
-"Tv show, Music, Food",3+,In Person,8,3,SR,Monday,Family
-Catching up,1,In Person,8,7,Luke,Monday,Other
-"Game, Music",1,In Person,9,3,SR,Monday,Family
-Election,2,Text Chat,5,4,Erin,Monday,Family
-Gym,3,Text Chat,7,4,Erin,Monday,Friend
 CPSC 501 quiz question,1,Text Chat,7,4,Jessie,Monday,Friend
-Update with my interview,1,Text Chat,8,7,Luke,Monday,Friend
-Video Game,1,Text Chat,10,3,SR,Monday,Family
-Catching up,1,Video call,7,7,Luke,Monday,Family
-Interview,3,Video call,8,7,Luke,Monday,Stranger
-"Greetings, Food, School, Work",3+,Voice Call,8,3,SR,Monday,Family
-School Project,3+,Voice Call,8,3,SR,Monday,School
-Lunch plans,1,Voice Call,8,4,Erin,Monday,Friend
-Invitation to come for Thanksgiving leftovers,1,Voice Call,9,7,Luke,Monday,Friend
-Chitchat,1,In Person,6,7,Luke,Saturday,Other
-Beer,3+,In Person,9,4,Erin,Saturday,Friend
-Beerfest plans,2,Text Chat,8,4,Erin,Saturday,Friend
-Travel plans,1,In Person,7,4,Erin,Saturday,Friend
-Pizza,1,Text Chat,10,4,Erin,Saturday,Friend
-Shopping,1,In Person,5,4,Erin,Saturday,Stranger
-Doctor,1,In Person,7,4,Erin,Saturday,Stranger
 Hot pot sauces,1,In Person,6,4,Jessie,Saturday,Family
 "Breakfast, backyard leaves",1,In Person,7,4,Jessie,Saturday,Family
 Movies,3,Text Chat,8,4,Jessie,Saturday,Friend
@@ -61,47 +67,9 @@ Movies,3,Text Chat,8,4,Jessie,Saturday,Friend
 "Bali, vacation",1,Text Chat,9,4,Jessie,Saturday,Friend
 Gossip ,1,Text Chat,10,4,Jessie,Saturday,Friend
 Group project CPSC 583,3,Voice Call,8,4,Jessie,Saturday,School
-New job stuff and chit chat,3,Video call,9,7,Luke,Saturday,Family
-Class project and stuff,1,In Person,8,7,Luke,Saturday,Friend
-Chit chat,1,In Person,6,7,Luke,Saturday,Other
-Confession,1,In Person,6,7,Luke,Saturday,Other
-Oil change,1,In Person,7,7,Luke,Saturday,Other
-Joining the choir,1,In Person,8,7,Luke,Saturday,Other
-Food,3+,In Person,8,3,SR,Saturday,Family
-"Food,Groceries",3,In Person,7,3,SR,Saturday,Family
-"Driving, Car",1,In Person,5,3,SR,Saturday,Family
-Clothes,1,In Person,6,3,SR,Saturday,Family
-"Video Games, Music",1,In Person,9,3,SR,Saturday,Family
-"School Project, Video Games",3,Voice Call,9,3,SR,Saturday,Friend
-Dad's Birthday,3+,In Person,9,4,Erin,Sunday,Family
-Trip Planning,3+,Text Chat,10,4,Erin,Sunday,Friend
-Running,1,In Person,6,4,Erin,Sunday,Friend
-The dog,1,In Person,8,4,Erin,Sunday,Friend
 Board games,1,Text Chat,7,4,Jessie,Sunday,Friend
 Halloween 2021 movie,1,Text Chat,9,4,Jessie,Sunday,Friend
 Group project CPSC 572,2,Voice Call,7,4,Jessie,Sunday,School
-chitchat,1,In Person,5,7,Luke,Sunday,Other
-chitchat,1,In Person,6,7,Luke,Sunday,Other
-group project,1,Text Chat,6,7,Luke,Sunday,School
-buying from kijiji,1,In Person,10,7,Luke,Sunday,Stranger
-Kijiji seller,1,Text Chat,4,7,Luke,Sunday,Stranger
-"Vacation Trip, Food",3,In Person,7,3,SR,Sunday,Family
-Driving,2,In Person,6,3,SR,Sunday,Family
-School Assignment Help,1,Text Chat,7,3,SR,Sunday,Stranger
-The day,3,In Person,10,4,Erin,Thursday,Friend
-Watching the dog,1,In Person,7,4,Erin,Thursday,Friend
-Home,1,In Person,8,4,Erin,Thursday,Friend
-The dentist,1,Voice Call,6,4,Erin,Thursday,Friend
-Dinner plans,1,Voice Call,8,4,Erin,Thursday,Friend
-Dinner,1,Voice Call,10,4,Erin,Thursday,Friend
-Group project,3,Text Chat,7,4,Erin,Thursday,School
-Design Challenge,3,Voice Call,7,4,Erin,Thursday,School
-Filling at Dentist,2,In Person,3,4,Erin,Thursday,Stranger
-Dogs eating ice cream,2,In Person,10,4,Erin,Thursday,Stranger
-Dentist,1,In Person,6,4,Erin,Thursday,Stranger
-Work,1,Email,6,4,Erin,Thursday,Work
-Work,1,Text Chat,6,4,Erin,Thursday,Work
-Work,1,Voice Call,6,4,Erin,Thursday,Work
 Backyard cleanup,1,In Person,5,4,Jessie,Thursday,Family
 Food,1,In Person,6,4,Jessie,Thursday,Family
 Alec baldwin,2,Text Chat,4,4,Jessie,Thursday,Friend
@@ -117,24 +85,6 @@ Group project CPSC 572,2,Text Chat,5,4,Jessie,Thursday,School
 Presentation,1,Video Call,6,4,Jessie,Thursday,School
 Interview scheduling,1,Email,8,4,Jessie,Thursday,Work
 Job description,1,Phone Call,5,4,Jessie,Thursday,Work
-Workout,3,In Person,9,7,Luke,Thursday,Other
-Twitter API,2,Text Chat,1,7,Luke,Thursday,School
-Piano,1,Video call,8,7,Luke,Thursday,School
-Job oppertunity,1,Text Chat,7,7,Luke,Thursday,Work
-"Tv Show, Jewelry",1,In Person,7,3,SR,Thursday,Family
-Video Game,1,In Person,8,3,SR,Thursday,Family
-Music,1,In Person,8,3,SR,Thursday,Family
-"Piano, Music, Video Game",1,Text Chat,6,3,SR,Thursday,Family
-Class Discussion,3+,Voice Call,6,3,SR,Thursday,Friend
-School Homework,1,Text Chat,6,3,SR,Thursday,Friend
-School Project,3,Voice Call,8,3,SR,Thursday,School
-TV,3+,Text Chat,7,4,Erin,Tuesday,Friend
-The election outcomes,2,Text Chat,7,4,Erin,Tuesday,Friend
-Dishwasher,1,In Person,4,4,Erin,Tuesday,Friend
-Dinner,1,In Person,10,4,Erin,Tuesday,Friend
-Plans for later,1,Voice Call,8,4,Erin,Tuesday,Friend
-Missing cat poster,2,In Person,4,4,Erin,Tuesday,Stranger
-Team meeting,3+,Video Call,5,4,Erin,Tuesday,Work
 Food,1,In Person,8,4,Jessie,Tuesday,Family
 Dengue ,2,Text Chat,4,4,Jessie,Tuesday,Friend
 You Season 3,2,Text Chat,8,4,Jessie,Tuesday,Friend
@@ -143,6 +93,41 @@ Squid game,1,Text Chat,7,4,Jessie,Tuesday,Friend
 "Catching up, memes",1,Text Chat,7,4,Jessie,Tuesday,Friend
 Group project CPSC 572,1,Text Chat,5,4,Jessie,Tuesday,School
 Interview scheduling,2,Video Call,5,4,Jessie,Tuesday,Work
+"Twitter, memes, vacation",1,Text Chat,5,4,Jessie,Wednesday,Friend
+"Vacation, coding interviews",1,Text Chat,8,4,Jessie,Wednesday,Friend
+School,3,In Person,5,4,Jessie,Wednesday,School
+CPSC 583 Project,3,In Person,5,4,Jessie,Wednesday,School
+CPSC 501,1,In Person,7,4,Jessie,Wednesday,School
+Weekend activities,1,In Person,9,4,Jessie,Wednesday,School
+Job offer,2,Video call,9,7,Luke,Friday,Family
+Job offer,1,Voice Call,10,7,Luke,Friday,Family
+Confession and chit chat,1,In Person,8,7,Luke,Friday,Other
+project,2,Voice Call,7,7,Luke,Friday,School
+Plans for the future,2,In Person,9,7,Luke,Friday,Work
+Job offer,1,Email,10,7,Luke,Friday,Work
+Job offer,1,Voice Call,10,7,Luke,Friday,Work
+Time availability for next round,1,Email,10,7,Luke,Monday,Work
+Catching up,1,In Person,8,7,Luke,Monday,Other
+Update with my interview,1,Text Chat,8,7,Luke,Monday,Friend
+Catching up,1,Video call,7,7,Luke,Monday,Family
+Interview,3,Video call,8,7,Luke,Monday,Stranger
+Invitation to come for Thanksgiving leftovers,1,Voice Call,9,7,Luke,Monday,Friend
+Chitchat,1,In Person,6,7,Luke,Saturday,Other
+New job stuff and chit chat,3,Video call,9,7,Luke,Saturday,Family
+Class project and stuff,1,In Person,8,7,Luke,Saturday,Friend
+Chit chat,1,In Person,6,7,Luke,Saturday,Other
+Confession,1,In Person,6,7,Luke,Saturday,Other
+Oil change,1,In Person,7,7,Luke,Saturday,Other
+Joining the choir,1,In Person,8,7,Luke,Saturday,Other
+chitchat,1,In Person,5,7,Luke,Sunday,Other
+chitchat,1,In Person,6,7,Luke,Sunday,Other
+group project,1,Text Chat,6,7,Luke,Sunday,School
+buying from kijiji,1,In Person,10,7,Luke,Sunday,Stranger
+Kijiji seller,1,Text Chat,4,7,Luke,Sunday,Stranger
+Workout,3,In Person,9,7,Luke,Thursday,Other
+Twitter API,2,Text Chat,1,7,Luke,Thursday,School
+Piano,1,Video call,8,7,Luke,Thursday,School
+Job oppertunity,1,Text Chat,7,7,Luke,Thursday,Work
 Workout,3,In Person,8,7,Luke,Tuesday,Friend
 James bond and stuff,3,In Person,9,7,Luke,Tuesday,Friend
 Birthday,3,Video call,10,7,Luke,Tuesday,Friend
@@ -152,30 +137,45 @@ Piano lessons,1,Video call,7,7,Luke,Tuesday,School
 Identity theft,1,Text Chat,3,7,Luke,Tuesday,Stranger
 What laptop to buy for my co-workers wife,2,In Person,6,7,Luke,Tuesday,Work
 Follow up from my interview,1,Voice Call,2,7,Luke,Tuesday,Work
-Cars,3,In Person,7,3,SR,Tuesday,Family
-Gym,1,In Person,6,3,SR,Tuesday,Family
-Computer,1,In Person,7,3,SR,Tuesday,Family
-School Assignment,2,Text Chat,6,3,SR,Tuesday,School
-School Homework,2,Text Chat,6,3,SR,Tuesday,Stranger
-Work,1,Voice Call,5,4,Erin,Wednesday,Family
-Plans for the weekend,3+,Text Chat,7,4,Erin,Wednesday,Friend
-Her work,2,In Person,6,4,Erin,Wednesday,Friend
-The dog,1,In Person,8,4,Erin,Wednesday,Friend
-Dogs,1,In Person,8,4,Erin,Wednesday,Stranger
-App Development,3+,Video Call,6,4,Erin,Wednesday,Work
-Work,1,Email,6,4,Erin,Wednesday,Work
-Work,1,Voice Call,6,4,Erin,Wednesday,Work
-"Twitter, memes, vacation",1,Text Chat,5,4,Jessie,Wednesday,Friend
-"Vacation, coding interviews",1,Text Chat,8,4,Jessie,Wednesday,Friend
-School,3,In Person,5,4,Jessie,Wednesday,School
-CPSC 583 Project,3,In Person,5,4,Jessie,Wednesday,School
-CPSC 501,1,In Person,7,4,Jessie,Wednesday,School
-Weekend activities,1,In Person,9,4,Jessie,Wednesday,School
 How to do clean snatches and stuff,3,In Person,7,7,Luke,Wednesday,Other
 Catching up,1,In Person,7,7,Luke,Wednesday,Other
 Filing a identity theft,1,Voice Call,6,7,Luke,Wednesday,Other
 Identity theft cont.,1,Text Chat,6,7,Luke,Wednesday,Stranger
 "Work stuff, vacation plans, crypto",1,In Person,7,7,Luke,Wednesday,Work
+"Video Game, Tv Show",1,In Person,7,3,SR,Friday,Family
+Food,1,In Person,7,3,SR,Friday,Family
+School Test,1,In Person,7,3,SR,Friday,Family
+School Work,1,Text Chat,6,3,SR,Friday,Friend
+Class Discussion,1,Text Chat,7,3,SR,Friday,Friend
+School Discussion,1,Text Chat,6,3,SR,Friday,Stranger
+"Cooking, Food",1,In Person,6,3,SR,Monday,Family
+School,1,In Person,6,3,SR,Monday,Family
+"Tv show, Music, Food",3+,In Person,8,3,SR,Monday,Family
+"Game, Music",1,In Person,9,3,SR,Monday,Family
+Video Game,1,Text Chat,10,3,SR,Monday,Family
+"Greetings, Food, School, Work",3+,Voice Call,8,3,SR,Monday,Family
+School Project,3+,Voice Call,8,3,SR,Monday,School
+Food,3+,In Person,8,3,SR,Saturday,Family
+"Food,Groceries",3,In Person,7,3,SR,Saturday,Family
+"Driving, Car",1,In Person,5,3,SR,Saturday,Family
+Clothes,1,In Person,6,3,SR,Saturday,Family
+"Video Games, Music",1,In Person,9,3,SR,Saturday,Family
+"School Project, Video Games",3,Voice Call,9,3,SR,Saturday,Friend
+"Vacation Trip, Food",3,In Person,7,3,SR,Sunday,Family
+Driving,2,In Person,6,3,SR,Sunday,Family
+School Assignment Help,1,Text Chat,7,3,SR,Sunday,Stranger
+"Tv Show, Jewelry",1,In Person,7,3,SR,Thursday,Family
+Video Game,1,In Person,8,3,SR,Thursday,Family
+Music,1,In Person,8,3,SR,Thursday,Family
+"Piano, Music, Video Game",1,Text Chat,6,3,SR,Thursday,Family
+Class Discussion,3+,Voice Call,6,3,SR,Thursday,Friend
+School Homework,1,Text Chat,6,3,SR,Thursday,Friend
+School Project,3,Voice Call,8,3,SR,Thursday,School
+Cars,3,In Person,7,3,SR,Tuesday,Family
+Gym,1,In Person,6,3,SR,Tuesday,Family
+Computer,1,In Person,7,3,SR,Tuesday,Family
+School Assignment,2,Text Chat,6,3,SR,Tuesday,School
+School Homework,2,Text Chat,6,3,SR,Tuesday,Stranger
 "School, Work",3,In Person,6,3,SR,Wednesday,Friend
 Baking,2,In Person,9,3,SR,Wednesday,Friend
 School,1,In Person,7,3,SR,Wednesday,Friend
